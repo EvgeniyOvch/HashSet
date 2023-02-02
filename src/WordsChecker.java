@@ -17,6 +17,6 @@ public class WordsChecker {
     }
 
     public boolean hasWord(String searsh) {
-        return word.contains(searsh);
+        return word.contains(searsh.toLowerCase());
     }
 }

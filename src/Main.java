@@ -10,6 +10,7 @@ public class Main {
         System.out.println(wordsChecker.hasWord("labore"));
         System.out.println(wordsChecker.hasWord("qui"));
         System.out.println(wordsChecker.hasWord("ds"));
+        System.out.println(wordsChecker.hasWord("Lorem"));
         System.out.println(wordsChecker.hasWord("officia"));
         System.out.println(wordsChecker.hasWord("commodo"));
         System.out.println(wordsChecker.hasWord("zzzcccccccccccccczz"));
